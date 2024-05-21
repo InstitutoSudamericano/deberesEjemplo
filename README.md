@@ -75,11 +75,11 @@ El objetivo de la Teoría Colaborativa es fomentar la colaboración y el trabajo
 
 ### Rúbrica
 
-| Categoría        | Indicación                                                                                                                                                                                                                                                                                                          | Valoración |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Video de Youtube | 1) El video debe mostrar la documentación .<br>2) Se deben observar de forma explicita las 3 preguntas.<br>3) El video debe exponer el argumento detras de la respuesta correcta<br>4) El video debe mostrar el pull request hecho y aceptado (merge)<br>4) La duración mínima es de 1 minuto, máxima de 2 minutos. | 50         |
-| Documentación    | 1) En formato markdown<br>2) Cumple con la estructura indicada:<br><br>*- Teoria*<br>*- Reflexión*<br>*- Analogia*<br>*- Resumen*<br>*- Referenciado de libros*<br><br>3) Evidencia del Pull Request con el link y una captura<br>                                                                                  | 30         |
-| Pull Request     | Realización de un fork y un pull request del repositorio que pertenece a la cuenta de Github del Instituto, respetando la estructura de carpetas.                                                                                                                                                                   | 20         |
+| Categoría        | Indicación                                                                                                                                                                                                                                                                                        | Valoración |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Video de Youtube | 1) El video debe mostrar la documentación .<br>2) Se deben observar de forma explicita las 3 preguntas.<br>3) El video debe exponer el argumento detras de la respuesta correcta<br>4) El video debe mostrar el pull request hecho <br>4) La duración mínima es de 1 minuto, máxima de 2 minutos. | 50         |
+| Documentación    | 1) En formato markdown<br>2) Cumple con la estructura indicada:<br><br>*- Teoria*<br>*- Reflexión*<br>*- Analogia*<br>*- Resumen*<br>*- Referenciado de libros*<br><br>3) Evidencia del Pull Request con el link y una captura del merge<br>                                                      | 30         |
+| Pull Request     | Realización de un fork y un pull request del repositorio que pertenece a la cuenta de Github del Instituto, respetando la estructura de carpetas.                                                                                                                                                 | 20         |
 
 ## 📒 Banco de Preguntas
 
@@ -91,11 +91,11 @@ El objetivo del Banco de Preguntas es desarrollar la capacidad de crear pregunta
 
 ### Rúbrica
 
-| Categoría        | Indicación                                                                                                                                                                                                                                                                                                          | Valoración |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Video de Youtube | 1) El video debe mostrar la documentación .<br>2) Se deben observar de forma explicita las 3 preguntas.<br>3) El video debe exponer el argumento detras de la respuesta correcta<br>4) El video debe mostrar el pull request hecho y aceptado (merge)<br>4) La duración mínima es de 1 minuto, máxima de 2 minutos. | 50         |
-| Documentación    | 1) Debe seguir la siguiente estructura:<br><br>*¿Cuál es la respuesta correcta a esta pregunta?[Número del Tema:number]*   <br>*A. ¿Es esta?*   <br>*B. ¿Quizá esta?*   <br>*C. ¿Tal vez esta otra?*   <br>*ANSWER: C*<br><br>2) Evidencia del Pull Request  con el link y una captura<br>                          | 30         |
-| Pull Request     | Realización de un fork y un pull request del repositorio que pertenece a la cuenta de Github del Instituto, respetando la estructura de carpetas.                                                                                                                                                                   | 20         |
+| Categoría        | Indicación                                                                                                                                                                                                                                                                                          | Valoración |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Video de Youtube | 1) El video debe mostrar la documentación .<br>2) Se deben observar de forma explicita las 3 preguntas.<br>3) El video debe exponer el argumento detras de la respuesta correcta<br>4) El video debe mostrar el pull request hecho<br>4) La duración mínima es de 1 minuto, máxima de 2 minutos.    | 50         |
+| Documentación    | 1) Debe seguir la siguiente estructura:<br><br>*¿Cuál es la respuesta correcta a esta pregunta?[Número del Tema:number]*   <br>*A. ¿Es esta?*   <br>*B. ¿Quizá esta?*   <br>*C. ¿Tal vez esta otra?*   <br>*ANSWER: C*<br><br>2) Evidencia del Pull Request con el link y una captura del merge<br> | 30         |
+| Pull Request     | Realización de un fork y un pull request del repositorio que pertenece a la cuenta de Github del Instituto, respetando la estructura de carpetas.                                                                                                                                                   | 20         |
 
 ## ✍🏻 Actividad del Tema
 
@@ -118,7 +118,7 @@ El objetivo de la Actividad del Tema es aplicar los conceptos aprendidos de mane
 1. Los videos deben ser subidos a YouTube **y configurados como "Público".**
 2. El título del video debe seguir el formato: [Tema] - [Tipo] - [Pequeña descripción].
 3. En la descripción del video, incluir el enlace al repositorio de GitHub correspondiente.
-4. Asegúrate de que el video esté bien iluminado y el audio sea claro.
+4. Asegúrate de que el video sea conciso y el audio sea claro.
 5. Se deben respetar los tiempos mínimos y máximos especificados para cada tipo de trabajo.
 
 # 📝 Evaluaciones

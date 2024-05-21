@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 200
   },
   "right": {
     "id": "8ea5bef212c595b5",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e7989ef18faa404",
+  "active": "0e05cf89a48057fa",
   "lastOpenFiles": [
     "1.1-Introduccion/1.1-AT-(Desarrollar-un-Hola-Mundo)/holamundo.ts",
     "1.1-Introduccion/1.1-TC-(Infografia-de-Nodejs)/infografia.png",
