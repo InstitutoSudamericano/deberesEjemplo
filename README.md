@@ -139,7 +139,3 @@ Es fundamental seguir todas las instrucciones y pautas establecidas en esta guí
 
 3. **¿Puedo usar herramientas adicionales para los trabajos autónomos?**
    Sí, puedes usar herramientas adicionales siempre y cuando se mencionen y justifiquen en la documentación o presentación del trabajo.
-
----
-
-Estas secciones complementan y estructuran mejor la guía, proporcionando claridad adicional sobre cada componente del trabajo autónomo.
